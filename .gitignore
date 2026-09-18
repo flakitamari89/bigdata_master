@@ -1,10 +1,10 @@
-# Insumos originales del cliente (chat con nombres reales, documento de tesis) — no publicar
+
 docs/kick-off-project.md
 docs/Plantilla de Proyecto de IEEE APR.docx
 ~$*.docx
 
 # Configuración interna de Claude Code (agentes, prompts de trabajo) — herramienta de la
-# consultoría, no es parte del entregable técnico de la tesis
+
 .claude/
 
 # Entorno local
