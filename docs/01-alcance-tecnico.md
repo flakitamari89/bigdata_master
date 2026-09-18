@@ -1,8 +1,6 @@
-# Alcance técnico — Arquitectura Big Data para Riesgo Crediticio
-### Nota de entendimiento — consultoría de implementación
-**Fecha:** 08 de septiembre de 2026
-**Fuentes revisadas:** `kick-off-project.md`, `Plantilla de Proyecto de IEEE APR.docx`
+#Arquitectura Big Data para Riesgo Crediticio
 
+**Fecha:** 08 de septiembre de 2026
 ---
 
 ## 1. De qué trata la tesis
@@ -21,7 +19,7 @@ Trabajo de titulación (Universidad Tecnológica Israel — UISRAEL) orientado a
 
 **Metodología de investigación:** cuantitativa, aplicada y de desarrollo tecnológico; alcance exploratorio-descriptivo-correlacional-explicativo; diseño no experimental y longitudinal retrospectivo. **Metodología de desarrollo: CRISP-DM** (comprensión del negocio → comprensión de datos → preparación/integración → diseño e implementación de la arquitectura → modelado → evaluación → despliegue).
 
-Nota importante: la parte metodológica/narrativa del documento (capítulos, redacción académica, marco teórico) **ya está siendo trabajada por el equipo del estudiante** — no es parte de nuestro alcance (ver sección 3).
+
 
 ---
 
