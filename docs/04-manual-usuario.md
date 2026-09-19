@@ -29,8 +29,8 @@ docker compose version
 ## 2. Clonar el repositorio
 
 ```bash
-git clone -b feature/mvp-v01 https://github.com/edzamo/bigdata-credit-risk-architecture.git
-cd bigdata-credit-risk-architecture/src
+git clone -b feature/mvp-v01 https://github.com/flakitamari89/bigdata_master.git
+cd bigdata_master/src
 ```
 
 ## 3. Descargar el dataset (paso manual obligatorio)
