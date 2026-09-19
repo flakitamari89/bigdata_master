@@ -46,9 +46,7 @@ Kaggle exige autenticación, así que este paso no se puede automatizar dentro d
    ```
 3. Guardar el token fuera del repo (el cliente lo lee automáticamente de esa ruta):
    ```bash
-   mkdir -p ~/.kaggle && chmod 700 ~/.kaggle
-   echo "KGAT_xxxxxxxxxxxxxxxxxxxxxxxxxxxx" > ~/.kaggle/access_token   # tu token real
-   chmod 600 ~/.kaggle/access_token
+   mkdir -p ~/.kaggle && echo KGAT_539324f69dbc4b81a6c9e2552e7f517d > ~/.kaggle/access_token && chmod 600 ~/.kaggle/access_token
    ```
    Alternativa sin dejarlo en disco: `export KAGGLE_API_TOKEN=KGAT_xxx...` en la sesión de shell.
 4. Verificar que el token funciona:
